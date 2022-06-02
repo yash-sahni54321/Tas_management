@@ -1,6 +1,7 @@
 # task_management
 
 A new Flutter project.
+![task_background](https://user-images.githubusercontent.com/67969545/171715862-147fbb51-f080-4f0c-a8b0-ff434d153da5.jpg)
 
 
 ## Getting Started
